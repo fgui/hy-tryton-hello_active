@@ -1,0 +1,5 @@
+<data>
+    <xpath expr="/tree/field[@name='greeting']" position="after">
+        <field name="active"/>
+    </xpath>
+</data>
